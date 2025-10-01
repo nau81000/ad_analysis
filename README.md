@@ -7,6 +7,14 @@ Ce projet analyse des annonces de type Airbnb
 - mongod
 - mongosh
 
+## Structure principale du projet
+
+```
+├── notebook.ipynb           # Notebook python contenant l'analyse
+├── results.pdf              # Résultats d'analyse
+├── start_replicaset.sh      # Script lançant MongoDB
+```
+
 ## Installation
 
 1. **Cloner le dépôt**
